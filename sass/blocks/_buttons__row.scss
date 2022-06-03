@@ -1,0 +1,7 @@
+.buttons__row {
+    display: flex;
+}
+
+.buttons__row > .btn + .btn {
+    margin-left: 20px;
+}
